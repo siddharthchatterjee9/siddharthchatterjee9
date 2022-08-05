@@ -1,7 +1,7 @@
-### Hello there! 👋
+# Hello there! 👋
 ![I'm Siddharth From India](https://pbs.twimg.com/profile_banners/1478419272607010816/1659712483/1080x360)
-## I'm Siddharth From India
-### and I'm a Java developer
+# I'm Siddharth From India
+## and I'm a Java developer
 
 Skills: Java / PHP / Spring / SEO / Backend / Google Analytics
 
