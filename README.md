@@ -6,7 +6,7 @@
 ### Skills: Java / PHP / Spring / SEO / Backend / Google Analytics
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddharthchatterjee9)  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/siddharthchatterjee9)  
 
 ### - 🔭 I’m currently working on website development at IoTAGI 
