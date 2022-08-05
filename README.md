@@ -9,11 +9,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/siddharthchatterjee9)  
 
-#### - 🔭 I’m currently working on website development at IoTAGI 
-#### - 🌱 I’m currently learning dynamic programming 
-#### - 👯 I’m looking to collaborate on Java projects 
-#### - 💬 Ask me about football / valorant 
-#### - 😄 Pronouns: He/Him 
+### - 🔭 I’m currently working on website development at IoTAGI 
+### - 🌱 I’m currently learning dynamic programming 
+### - 👯 I’m looking to collaborate on Java projects 
+### - 💬 Ask me about football / valorant 
+### - 😄 Pronouns: He/Him 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthchatterjee9&show_icons=true)  
 
