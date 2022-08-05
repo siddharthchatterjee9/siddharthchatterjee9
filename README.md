@@ -5,6 +5,10 @@
 
 ### Skills: Java / PHP / Spring / SEO / Backend / Google Analytics
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddharthchatterjee9)  
+
+![Profile views](https://gpvc.arturio.dev/siddharthchatterjee9)  
+
 #### - 🔭 I’m currently working on website development at IoTAGI 
 #### - 🌱 I’m currently learning dynamic programming 
 #### - 👯 I’m looking to collaborate on Java projects 
@@ -20,7 +24,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddharthchatterjee9)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siddharthchatterjee9)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddharthchatterjee9)  
-
-![Profile views](https://gpvc.arturio.dev/siddharthchatterjee9)  
