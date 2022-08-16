@@ -1,5 +1,12 @@
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Siddharth Chatterjee</h1>
-<h2 align="center">A passionate Java and PHP developer from India</h2>
+<h1 align="center">:abacus: :computer: :cd: ._. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ._. :cd: :computer: :abacus:</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5800&pause=2500&color=FFC700&background=232323&vCenter=true&width=1020&lines=HELLO+THERE!+I+am+Siddharth+Chatterjee+and+I+am+a+Java+developer+:D)](https://git.io/typing-svg)
+
+
+![coding](https://user-images.githubusercontent.com/59141222/184934908-d912ec9a-4028-4902-8d4e-7af05a31f17e.gif)
+<img align="right" height="360px" width="510px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<h2 align="center">Also passionate about PHP developer and an SEO enthusiast :)</h2>
+
 
 ![I'm Siddharth From India](https://pbs.twimg.com/profile_banners/1478419272607010816/1659712483/1080x360)
 
