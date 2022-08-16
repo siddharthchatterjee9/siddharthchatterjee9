@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthchatterjee9" alt="siddharthchatterjee9" /></a> </p>
 
-## - 🔭 I’m currently working on [website development at IoTAGI](https://iotagi.in)
+### - 🔭 I’m currently working on [website development at IoTAGI](https://iotagi.in)
 
-## - 🌱 I’m currently learning **dynamic programming**
+### - 🌱 I’m currently learning **dynamic programming**
 
-- 👯 I’m looking to collaborate on **projects based on Java/PHP**
+### - 👯 I’m looking to collaborate on **projects based on Java/PHP**
 
-- 📝 I regularly write articles on [https://medium.com/@siddharth_chatterjee](https://medium.com/@siddharth_chatterjee)
+### - 📝 I regularly write articles on [https://medium.com/@siddharth_chatterjee](https://medium.com/@siddharth_chatterjee)
 
-- 💬 Ask me about **football / valorant**
+### - 💬 Ask me about **football / valorant**
 
-- 📫 How to reach me **siddharthchatterjee99@gmail.com**
+### - 📫 How to reach me **siddharthchatterjee99@gmail.com**
 
-- 📄 Know about my experiences [https://medium.com/@siddharth_chatterjee](https://medium.com/@siddharth_chatterjee)
+### - 📄 Know about my experiences [https://medium.com/@siddharth_chatterjee](https://medium.com/@siddharth_chatterjee)
 
-- ⚡ Fun fact **I think I am funny**
+### - ⚡ Fun fact **I think I am funny**
 
 
 <h3 align="left">Connect with me:</h3>
