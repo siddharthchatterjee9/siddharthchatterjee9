@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5800&pause=2500&color=FFC700&background=232323&vCenter=true&width=1020&lines=HELLO+THERE!+I+am+Siddharth+Chatterjee+and+I+am+a+Java+developer+:D)](https://git.io/typing-svg)
 
 
-![coding](https://user-images.githubusercontent.com/59141222/184934908-d912ec9a-4028-4902-8d4e-7af05a31f17e.gif)
-<img align="right" height="360px" width="510px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="left" height="350px" width="500px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="350px" width="500px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"/>
+
 <h2 align="center">Also passionate about PHP developer and an SEO enthusiast :)</h2>
 
 
