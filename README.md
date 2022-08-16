@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siddharth Chatterjee</h1>
-<h3 align="center">A passionate Java and PHP developer from India</h3>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Siddharth Chatterjee</h1>
+<h2 align="center">A passionate Java and PHP developer from India</h2>
+
+![I'm Siddharth From India](https://pbs.twimg.com/profile_banners/1478419272607010816/1659712483/1080x360)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthchatterjee9&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthchatterjee9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthchatterjee9" alt="siddharthchatterjee9" /></a> </p>
 
 ### - 🔭 I’m currently working on [website development at IoTAGI](https://iotagi.in)
 
