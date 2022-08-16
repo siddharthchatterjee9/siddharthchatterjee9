@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthchatterjee9" alt="siddharthchatterjee9" /></a> </p>
 
-- 🔭 I’m currently working on [website development at IoTAGI](https://iotagi.in)
+## - 🔭 I’m currently working on [website development at IoTAGI](https://iotagi.in)
 
-- 🌱 I’m currently learning **dynamic programming**
+## - 🌱 I’m currently learning **dynamic programming**
 
 - 👯 I’m looking to collaborate on **projects based on Java/PHP**
 
@@ -21,9 +21,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
