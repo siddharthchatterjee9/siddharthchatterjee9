@@ -13,6 +13,9 @@
 <a href="https://leetcode.com/siddharth_chatterjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddharth_chatterjee/" height="30" width="40" /></a>
 <a href="https://discord.gg/siddharth_chatterjee#0760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siddharth_chatterjee#0760" height="30" width="40" /></a>
 </p>
+<hr> </hr>
+
+![I'm Siddharth From India](https://pbs.twimg.com/profile_banners/1478419272607010816/1659712483/1080x360)
 
 <img align="right" height="260px" width="450px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -31,7 +34,7 @@
 
 <hr></hr>
 
-![I'm Siddharth From India](https://pbs.twimg.com/profile_banners/1478419272607010816/1659712483/1080x360)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthchatterjee9&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthchatterjee9" /> </p>
 
@@ -44,8 +47,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/chatterjee27"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/chatterjee27" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthchatterjee9&show_icons=true&locale=en&layout=compact" alt="siddharthchatterjee9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthchatterjee9&show_icons=true&locale=en" alt="siddharthchatterjee9" /></p>
 
